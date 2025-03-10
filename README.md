@@ -3,6 +3,8 @@ Challenge del amigo secreto solicitado por alura latam
 
 Objetivo de la aplicacion "Amigo Secreto": La funcion de la aplicacion es la de sortear aleatoriamente un amigo secreto al usuario.
 
+Para abrir la aplicacion "Amigo Secreto" deberas abrir el archivo llamado "index.html" en el navegador de tu preferencia (Si utilizas google chrome, puedes utilizar el atajo Ctrol + O)
+
 Funcionalidad de la Aplicacion "Amigo Secreto": Para utilizar la aplicacion es muy facil, debes seguir los siguientes pasos:
 
 1. En la zona central de la pagina, observaras un cuadro que dice: "Escribe un nombre", alli deberas ingresar el nombre que deseas agregar.
